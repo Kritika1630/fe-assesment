@@ -20,8 +20,7 @@ const Card = styled(motion.div)`
   width: 90%;
   max-width: 600px;
   text-align: center;
-`;
-
+`
 const Heading = styled.h1`
   font-size: 1.5rem;
   font-weight: 800;
